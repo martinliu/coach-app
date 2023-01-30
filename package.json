@@ -1,0 +1,29 @@
+{
+  "name": "coach-app",
+  "version": "1.0.0",
+  "description": "My app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinliu/coach-app.git"
+  },
+  "keywords": [
+    "DevOps"
+  ],
+  "author": "Martin Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinliu/coach-app/issues"
+  },
+  "homepage": "https://github.com/martinliu/coach-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon -L app.js"
+  }
+}
