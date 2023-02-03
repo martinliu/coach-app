@@ -132,3 +132,6 @@ dist
 # WebStome IDE
 .idea/
 .idea/*
+.idea/vcs.xml
+.idea/modules.xml
+.idea/coach-app.iml
