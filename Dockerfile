@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:18-alpine
 
 # Create app directory
 WORKDIR /app
@@ -12,4 +12,4 @@ COPY . .
 
 Expose 3000
 
-CMD ["node", "app.js"]
+CMD ["npm", "run", "start"]
