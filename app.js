@@ -4,7 +4,7 @@ var app = express()
 
 //Define request response in root URL (/)
 app.get('/', function (req, res) {
-  res.send('Hello World insode docker; app v3.9!')
+  res.send('Hello World inside docker from macOS; !')
 })
 
 //Launch listening server on port 8080
