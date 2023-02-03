@@ -1,8 +1,8 @@
 {
   "name": "Coach App",
   "version": "1.0.0",
-  "description": "",
-  "keywords": ['DevOps'],
+  "description": "This is a side project.",
+  "keywords": ["DevOps"],
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.12.4",
