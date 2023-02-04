@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <HighlightIcon />
-        Brain offload here.
+        Take some notes here.
       </h1>
     </header>
   );
